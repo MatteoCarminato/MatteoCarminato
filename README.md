@@ -10,10 +10,10 @@
   <samp>
     Hello, I'm Matteo Carminato! 👋
     Full Stack Developer <br>
-    :man_technologist: I’m currently working on Pravaler with PHP - Elixir - Angular - React.
+    :man_technologist: I’m currently working on Pravaler with PHP - Elixir - Angular - React <br>
     :school: União Dinamica Cataratas - Sistemas de Informação <br>
     :sparkles: Favorite Tech: PHP, Laravel, Elixir, MongoDB, Postgres ... <br>
-    :notebook: I’m currently learning Laravel, Clen Code and Software Architecture<br>
+    :notebook: I’m currently learning Laravel, Clen Code and Software Architecture <br>
     :email:	mcarminato95@gmail.com <br>
     :briefcase: LinkedIn: https://br.linkedin.com/in/matteo-carminato-759613150<br>
   </samp>
