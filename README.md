@@ -1,14 +1,19 @@
 # :man_technologist: Matteo da Silva Carminato
 <p align="center">
+  
+<p align="center">
+  <img  src="https://img.shields.io/static/v1?label=English&message=basic&color=C2331A&"/>
+  <img  src="https://img.shields.io/static/v1?label=Spanish&message=interediary&color=C2331A&"/>
+  <img  src="https://img.shields.io/github/watchers/JulianaAmoriN/JulianaAmoriN.svg"/>
+</p>
 
-  <br>
   <samp>
     Hello, I'm Matteo Carminato! 👋
     Full Stack Developer <br>
-    :man_technologist: I’m currently working on CloudCRM with PHP.
+    :man_technologist: I’m currently working on Pravaler with PHP - Elixir - Angular - React.
     :school: União Dinamica Cataratas - Sistemas de Informação <br>
-    :sparkles: Favorite Tech: PHP, Laravel, MongoDB, Postgres ... <br>
-    :notebook: I’m currently learning Laravel and Clen Code<br>
+    :sparkles: Favorite Tech: PHP, Laravel, Elixir, MongoDB, Postgres ... <br>
+    :notebook: I’m currently learning Laravel, Clen Code and Software Architecture<br>
     :email:	mcarminato95@gmail.com <br>
     :briefcase: LinkedIn: https://br.linkedin.com/in/matteo-carminato-759613150<br>
   </samp>
