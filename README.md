@@ -15,7 +15,7 @@
     :sparkles: Favorite Tech: PHP, Laravel, Elixir, MongoDB, Postgres ... <br>
     :notebook: I’m currently learning Laravel, Clen Code and Software Architecture <br>
     :email:	mcarminato95@gmail.com <br>
-    :briefcase: LinkedIn: [https://br.linkedin.com/in/matteo-carminato-759613150](https://www.linkedin.com/in/matteocarminato/)<br>
+    :briefcase: LinkedIn: [[https://br.linkedin.com/in/matteo-carminato-759613150](https://www.linkedin.com/in/matteocarminato)]<br>
   </samp>
   <br>
   <br>
