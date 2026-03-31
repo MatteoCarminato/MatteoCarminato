@@ -13,7 +13,7 @@
     :man_technologist: I’m currently working on Proprli with PHP - Elixir - Angular - React <br>
     :school: União Dinamica Cataratas - Sistemas de Informação <br>
     :sparkles: Favorite Tech: PHP, Laravel, Elixir, MongoDB, Postgres ... <br>
-    :notebook: I’m currently learning Laravel, Clen Code and Software Architecture <br>
+    :notebook: I’m currently learning Laravel, Clean Code and Software Architecture <br>
     :email:	mcarminato95@gmail.com <br>
     :briefcase: LinkedIn: https://www.linkedin.com/in/matteocarminato <br>
   </samp>
